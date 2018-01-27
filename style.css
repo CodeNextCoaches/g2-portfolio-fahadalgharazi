@@ -1,0 +1,35 @@
+nav ul li {
+display: inline;
+border: 1px solid grey;
+padding: 15px;
+
+}
+
+nav ul{
+	list-style: none;
+
+}
+
+p{
+	background-color:#30a89a;
+	margin:50px;
+}
+
+
+
+
+
+span{
+	float: right;
+}
+.icon{
+	width: 60px;
+	html{
+		box-sizing: border-box;
+	}
+
+
+
+
+
+
