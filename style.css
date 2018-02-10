@@ -14,22 +14,17 @@ p{
 	background-color:#30a89a;
 	margin:50px;
 }
-
-
-
-
-
 span{
 	float: right;
 }
 .icon{
 	width: 60px;
-	html{
+
+}
+html{
 		box-sizing: border-box;
-	}
+}
+ img {
+ 	width: 500px;
 
-
-
-
-
-
+}
